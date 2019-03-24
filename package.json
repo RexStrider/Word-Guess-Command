@@ -1,0 +1,23 @@
+{
+  "name": "Word-Guess-Command",
+  "version": "1.0.0",
+  "description": "A word guess game using the command line terminal and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RexStrider/Word-Guess-Command.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RexStrider/Word-Guess-Command/issues"
+  },
+  "homepage": "https://github.com/RexStrider/Word-Guess-Command#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
